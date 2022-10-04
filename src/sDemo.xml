@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="sDemo">
+    <test name="sDemoTest.">
+        <classes>
+            <class name="zODEVLER.Configration_sDemo"></class>
+            <class name="tests.day20.C01_SmokePozitifTest"></class>
+
+        </classes>
+    </test>
+
+</suite>
